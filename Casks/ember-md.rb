@@ -1,6 +1,6 @@
 cask "ember-md" do
-  version "0.3.6"
-  sha256 "1b7f943cd1aae53710b14d39142c91fc6fc5a895eccadb40298fbde38f1bf58b"
+  version "0.3.7"
+  sha256 "ac713240f865fee3ac69a382aa5021a64162aed886b86e7be32825166b2c128c"
 
   url "https://github.com/gentry-lab/Ember-MD/releases/download/v#{version}/Ember-#{version}-mac-arm64.dmg"
   name "Ember MD"
